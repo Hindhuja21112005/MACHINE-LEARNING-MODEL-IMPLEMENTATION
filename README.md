@@ -23,10 +23,10 @@ The general workflow involves the following steps:
 2. Data Preprocessing – Clean the dataset by handling missing values, removing duplicates, normalizing numerical features, and converting text into numerical form using techniques like TF-IDF or CountVectorizer. Proper preprocessing ensures better accuracy of the model.
 
 
-3. Splitting Data – Divide the dataset into a training set (to train the model) and a testing set (to evaluate the model’s performance). Typically, a 70:30 or 80:20 split is used.
+4. Splitting Data – Divide the dataset into a training set (to train the model) and a testing set (to evaluate the model’s performance). Typically, a 70:30 or 80:20 split is used.
 
 
-4. Model Selection – Choose an appropriate machine learning algorithm from scikit-learn such as:
+5. Model Selection – Choose an appropriate machine learning algorithm from scikit-learn such as:
 
 Logistic Regression – Simple and effective for binary classification tasks.
 
@@ -54,6 +54,14 @@ Data loading and preprocessing steps
 Model creation and training
 
 Performance evaluation and results interpretation
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/2287fdf9-92c6-454d-b41d-ecedb3706381)
+
+![Image](https://github.com/user-attachments/assets/111b5981-e1d1-476f-b405-2b323c3aca48)
+
+![Image](https://github.com/user-attachments/assets/2bd8fdc2-5205-4280-8e6f-3489f5e6c5e6)
+
+![Image](https://github.com/user-attachments/assets/9445c043-78e5-431c-b492-a15707c15447)
 
 
 
